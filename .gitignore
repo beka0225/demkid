@@ -8,6 +8,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/CorgiEngine/
+Assets/Ferr/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
